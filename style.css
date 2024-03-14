@@ -15,7 +15,7 @@ body{
 
 .container-fluid{
   height: 100vh;
-  background-image: url(assets/images/.webp);
+  background-image: url(assets/images/back.webp);
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
